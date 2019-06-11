@@ -3,3 +3,6 @@ node_modules
 
 # Logs
 debug.log
+
+keys.js
+package-lock.json
