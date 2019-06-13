@@ -4,5 +4,5 @@ node_modules
 # Logs
 debug.log
 
-keys.js
+dev.js
 package-lock.json
